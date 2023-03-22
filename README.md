@@ -1,8 +1,8 @@
 
-  # the best
+  # Pro README
 
   ## Description
-  shorty
+  shortie
 
   ## Table of Content
   * [Installation](#installation)
@@ -16,22 +16,22 @@
   1 2 3
 
   ## Usage
-  use it good
+  use well 
 
   ## Licence
 
 
   ## Contributing
-  contribute
+  conbribute a lot
 
   ## Test
-  test
+  this is a test
 
   ## Questions
-  what time is it
+  no questions. all clear
 
   ## GitHub repository
-  [GitHub](https://github.com/https://github.com/odobashigenci)
+  [GitHub](https://github.com/odobashigenci)
 
   ## Email me
   [E-mail](mailto:godobashi@gmail.com)
