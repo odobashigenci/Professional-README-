@@ -1,8 +1,8 @@
 
-  # Pro README
+  # Title
 
   ## Description
-  shortie
+  Descritpion
 
   ## Table of Content
   * [Installation](#installation)
@@ -13,25 +13,25 @@
   * [Questions](#questions)
 
   ## Installation
-  1 2 3
+  Install
 
   ## Usage
-  use well 
+  Instructions
 
   ## Licence
-
+  Mozila Public
 
   ## Contributing
-  conbribute a lot
+  Contribute
 
   ## Test
-  this is a test
+  Test
 
   ## Questions
-  no questions. all clear
+  No questions
 
   ## GitHub repository
-  [GitHub](https://github.com/odobashigenci)
+  [GitHub](https://www.github.com)
 
   ## Email me
-  [E-mail](mailto:godobashi@gmail.com)
+  [E-mail](mailto:google@gmail.com)
