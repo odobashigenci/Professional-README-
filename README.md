@@ -1,10 +1,10 @@
 
-  # asdf
+  # Professional README
 
-  ![License](https://img.shields.io/badge/License-MIT License-blue.svg)
+  ![License](https://img.shields.io/badge/License-Mozila%20Public License-blue.svg)
 
   ## Description
-  asdf
+  This is a professional README generator
 
   ## Table of Content
 
@@ -16,26 +16,26 @@
   * [Questions](#questions)
 
   ## Installation
-  asdf
+  Follow the video
 
   ## Usage
-  asdf
+  Follow the video
 
   ## License
   
-    This application is covered under [MIT License](https://choosealicense.com/licenses/mit/)
+    This application is covered under [Mozila Public License](https://choosealicense.com/licenses/mpl-2.0/)
 
   ## Contributing
-  asdf
+  Freely contribute or contact me
 
   ## Test
-  asdf
+  This is a test
 
   ## Questions
-  asdf
+  All clear
 
   ## GitHub repository
-  [GitHub](asdf)
+  [GitHub](https://github.com)
 
   ## Email me
-  [E-mail](mailto:asdf)
+  [E-mail](mailto:google@gmail.com)
