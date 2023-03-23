@@ -1,7 +1,7 @@
 
   # asdf
 
-  ![License](https://img.shields.io/badge/License-The%20Unlicense-blue.svg)
+  ![License](https://img.shields.io/badge/License-Mozila%20Public License-blue.svg)
 
   ## Description
   asdf
@@ -22,11 +22,10 @@
   asdf
 
   ## License
-  
-  This application is covered under [The Unlicense](https://choosealicense.com/licenses/unlicense/)
+  This application is covered under [Mozila Public License](https://choosealicense.com/licenses/mpl-2.0/)
 
   ## Contributing
-  asdf
+  sadf
 
   ## Test
   asdf
@@ -35,7 +34,7 @@
   asdf
 
   ## GitHub repository
-  [GitHub](asdf)
+  [GitHub](sadf)
 
   ## Email me
   [E-mail](mailto:sdf)
