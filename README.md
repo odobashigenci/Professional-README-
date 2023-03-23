@@ -1,7 +1,7 @@
 
   # asdf
 
-  ![Badge](https://img.shields.io/badge/License-Mozila Public-blue.svg)
+  ![Badge](https://img.shields.io/badge/License-MIT License-blue.svg)
 
   ## Description
   asdf
@@ -9,7 +9,7 @@
   ## Table of Content
   * [Installation](#installation)
   * [Usage](#usage)
-  * [* [License](#license)
+  * [https://choosealicense.com/licenses/mit/
   * [Contributing](#contributing)
   * [Testing](#testing)
   * [Questions](#questions)
@@ -22,7 +22,7 @@
 
   ## License
   
-    This application is covered by the Mozila Public license.
+    This application is covered by the MIT License license.
 
   ## Contributing
   asdf
