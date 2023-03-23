@@ -1,8 +1,7 @@
 
-  
   # asdf
 
-  [![License](https://img.shields.io/badge/License-Mozila%20Public License-blue.svg)](Mozila%20Public License)
+  [![License](https://img.shields.io/badge/License-Mozila%20Public License-blue.svg)](https://choosealicense.com/licenses/mpl-2.0/)
 
   ## Description
   asdf
@@ -40,4 +39,3 @@
 
   ## Email me
   [E-mail](mailto:sadf)
-
