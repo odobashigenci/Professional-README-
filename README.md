@@ -1,5 +1,5 @@
 
-  # asdf
+  # sadf
 
   ![Badge](https://img.shields.io/badge/License-Mozila Public License-blue.svg)
 
@@ -10,7 +10,7 @@
 
   * [Installation](#installation)
   * [Usage](#usage)
-  * [License](https://choosealicense.com/licenses/mpl-2.0/)
+  * [License](#license)
   * [Contributing](#contributing)
   * [Testing](#testing)
   * [Questions](#questions)
@@ -23,7 +23,7 @@
 
   ## License
   
-    This application is covered under [Mozila Public License](https://choosealicense.com/licenses/mpl-2.0/) license.
+    This application is covered under [Mozila Public License](https://choosealicense.com/licenses/mpl-2.0/) license
 
   ## Contributing
   asdf
