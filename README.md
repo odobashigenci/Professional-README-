@@ -23,7 +23,7 @@
 
   ## License
   
-    This application is covered under [The Unlicense](https://choosealicense.com/licenses/unlicense/)
+  This application is covered under [The Unlicense](https://choosealicense.com/licenses/unlicense/)
 
   ## Contributing
   asdf
