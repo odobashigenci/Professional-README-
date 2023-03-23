@@ -1,7 +1,7 @@
 
   # asdf
 
-  [![License](https://img.shields.io/badge/License-The%20Unlicense-blue.svg)](https://opensource.org/licenses/The%20Unlicense)
+  [![License](https://img.shields.io/badge/License-MIT%20License-blue.svg)](https://opensource.org/licenses/MIT%20License)
 
   ## Description
   asdf
@@ -23,7 +23,7 @@
 
   ## License
   
-    This application is covered under The Unlicense license
+    This application is covered under MIT License license
 
   ## Contributing
   asdf
