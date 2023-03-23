@@ -1,7 +1,7 @@
 
   # asdf
 
-  [![License](https://img.shields.io/badge/License-Mozila%20Public License-blue.svg)](https://choosealicense.com/licenses/mpl-2.0/)
+  [![License](https://img.shields.io/badge/License-Apache%20License-blue.svg)]
 
   ## Description
   asdf
@@ -23,7 +23,7 @@
 
   ## License
   
-    This application is covered under Mozila Public License
+    This application is covered under Apache License
 
   ## Contributing
   asdf
