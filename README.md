@@ -1,7 +1,8 @@
 
+  
   # asdf
 
-  [![License](https://img.shields.io/badge/License-MIT%20License-blue.svg)](https://opensource.org/licenses/MIT%20License)
+  [![License](https://img.shields.io/badge/License-Mozila%20Public License-blue.svg)](Mozila%20Public License)
 
   ## Description
   asdf
@@ -23,7 +24,7 @@
 
   ## License
   
-    This application is covered under MIT License license
+    This application is covered under Mozila Public License
 
   ## Contributing
   asdf
@@ -38,4 +39,5 @@
   [GitHub](asdf)
 
   ## Email me
-  [E-mail](mailto:asdf)
+  [E-mail](mailto:sadf)
+
