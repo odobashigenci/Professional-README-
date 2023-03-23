@@ -4,7 +4,7 @@
   ![Badge](https://img.shields.io/badge/License-The Unlicense-blue.svg)
 
   ## Description
-  asdf
+  sadf
 
   ## Table of Content
 
@@ -23,7 +23,7 @@
 
   ## License
   
-    This application is covered by the The Unlicense license.
+    This application is covered under The Unlicense license.
 
   ## Contributing
   asdf
@@ -38,4 +38,4 @@
   [GitHub](asdf)
 
   ## Email me
-  [E-mail](mailto:asdf)
+  [E-mail](mailto:sadf)
