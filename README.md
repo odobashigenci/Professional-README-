@@ -1,7 +1,7 @@
 
   # asdf
 
-  ![Badge](https://img.shields.io/badge/License-Mozila Public-red.svg)
+  ![Badge](https://img.shields.io/badge/License-Mozila Public-blue.svg)
 
   ## Description
   asdf
@@ -21,7 +21,7 @@
   asdf
 
   ## License
-  ## License
+  
     This application is covered by the Mozila Public license.
 
   ## Contributing
