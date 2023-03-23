@@ -23,7 +23,7 @@
 
   ## License
   
-    This application is covered under <a href="https://choosealicense.com/licenses/mpl-2.0/">Mozila Public License</a> license.
+    This application is covered under [Mozila Public License](https://choosealicense.com/licenses/mpl-2.0/) license.
 
   ## Contributing
   asdf
