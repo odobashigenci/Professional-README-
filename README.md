@@ -1,15 +1,17 @@
 
   # asdf
 
+  ![Badge](https://img.shields.io/badge/License-Mozila Public-red.svg)
+
   ## Description
   asdf
 
   ## Table of Content
   * [Installation](#installation)
   * [Usage](#usage)
-  * [License](#license)
+  * [* [License](#license)
   * [Contributing](#contributing)
-  * [Test](#test)
+  * [Testing](#testing)
   * [Questions](#questions)
 
   ## Installation
@@ -19,7 +21,8 @@
   asdf
 
   ## License
-  * [License](#license)
+  ## License
+    This application is covered by the Mozila Public license.
 
   ## Contributing
   asdf
@@ -31,7 +34,7 @@
   asdf
 
   ## GitHub repository
-  [GitHub](aasdf)
+  [GitHub](asdf)
 
   ## Email me
   [E-mail](mailto:asdf)
