@@ -1,10 +1,10 @@
 
   # asdf
 
-  ![License](https://img.shields.io/badge/License-MIT%20License-blue.svg)
+  ![License](https://img.shields.io/badge/License-MIT License-blue.svg)
 
   ## Description
-  sadf
+  asdf
 
   ## Table of Content
 
@@ -19,23 +19,23 @@
   asdf
 
   ## Usage
-  sdf
+  asdf
 
   ## License
   
     This application is covered under [MIT License](https://choosealicense.com/licenses/mit/)
 
   ## Contributing
-  sdf
+  asdf
 
   ## Test
   asdf
 
   ## Questions
-  sdf
+  asdf
 
   ## GitHub repository
-  [GitHub](sdf)
+  [GitHub](asdf)
 
   ## Email me
-  [E-mail](mailto:sdf)
+  [E-mail](mailto:asdf)
