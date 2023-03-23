@@ -1,7 +1,7 @@
 
   # asdf
 
-  [![License](https://img.shields.io/badge/License-Apache%20License-blue.svg)](https://opensource.org/licenses/Apache%20License)
+  [![License](https://img.shields.io/badge/License-The%20Unlicense-blue.svg)](https://opensource.org/licenses/The%20Unlicense)
 
   ## Description
   asdf
@@ -23,7 +23,7 @@
 
   ## License
   
-    This application is covered under [Apache License](https://choosealicense.com/licenses/apache-2.0/) license
+    This application is covered under The Unlicense license
 
   ## Contributing
   asdf
