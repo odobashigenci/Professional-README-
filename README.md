@@ -1,7 +1,7 @@
 
   # asdf
 
-  ![License](https://img.shields.io/badge/License-Boost%20Software License-blue.svg)
+  ![License](https://img.shields.io/badge/License-GNU%20License-blue.svg)
 
   ## Description
   sadf
@@ -22,7 +22,7 @@
   asdf
 
   ## License
-  This application is covered under [Boost Software License](https://choosealicense.com/licenses/bsl-1.0/)
+  This application is covered under [GNU License](https://choosealicense.com/licenses/gpl-3.0/)
 
   ## Contributing
   asdf
