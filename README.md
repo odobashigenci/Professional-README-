@@ -1,10 +1,10 @@
 
   # asdf
 
-  ![License](https://img.shields.io/badge/License-MIT%20License-blue.svg)
+  ![License](https://img.shields.io/badge/License-Mozila%20Public License-blue.svg)
 
   ## Description
-  sadf
+  asdf
 
   ## Table of Content
 
@@ -16,13 +16,13 @@
   * [Questions](#questions)
 
   ## Installation
-  asdf
+  sdaf
 
   ## Usage
   asdf
 
   ## License
-  This application is covered under [MIT License](https://choosealicense.com/licenses/mit/)
+  This application is covered under [Mozila Public License](https://choosealicense.com/licenses/mpl-2.0/)
 
   ## Contributing
   asdf
@@ -31,7 +31,7 @@
   asdf
 
   ## Questions
-  asdf
+  sadf
 
   ## GitHub repository
   [GitHub](asdf)
